@@ -1,0 +1,30 @@
+{
+    "name": "finc/method-interception",
+    "description": "Provides factories for method interception.",
+    "authors": [
+        {
+            "name": "Sebastian Kehr",
+            "email": "kehr@ub.uni-leipzig.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "finc\\MethodInterception\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": { "finc\\MethodInterception\\": "test/" }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6"
+    },
+    "require": {
+        "ocramius/proxy-manager": "^2",
+        "psr/container": "^1.0"
+    },
+    "extra": {
+        "zf": {
+            "module": "finc\\MethodInterception"
+        }
+    }
+}
