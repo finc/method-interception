@@ -28,7 +28,7 @@
 
 namespace finc\MethodInterception;
 
-use ProxyManager\Factory\AccessInterceptorScopeLocalizerFactory as ProxyFactory;
+use ProxyManager\Factory\AccessInterceptorValueHolderFactory as ProxyFactory;
 use ProxyManager\Proxy\AccessInterceptorInterface as Proxy;
 
 /**
