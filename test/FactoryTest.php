@@ -20,7 +20,7 @@
  * Inc. 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
  *
  * @category finc
- * @package  MethodInterception
+ * @package  finc\MethodInterception
  * @author   Sebastian Kehr <kehr@ub.uni-leipzig.de>
  * @license  https://opensource.org/licenses/gpl-2.0.php GNU GPLv2
  * @link     https://finc.info
@@ -35,7 +35,7 @@ use ProxyManager\Proxy\AccessInterceptorInterface;
  * Factory test.
  *
  * @category finc
- * @package  MethodInterception
+ * @package  finc\MethodInterception
  * @author   Sebastian Kehr <kehr@ub.uni-leipzig.de>
  * @license  https://opensource.org/licenses/gpl-2.0.php GNU GPLv2
  * @link     https://finc.info

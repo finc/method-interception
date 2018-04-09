@@ -31,7 +31,7 @@ namespace finc\MethodInterception;
  * Test interceptor class.
  *
  * @category finc
- * @package  MethodInterception
+ * @package  finc\MethodInterception
  * @author   Sebastian Kehr <kehr@ub.uni-leipzig.de>
  * @license  https://opensource.org/licenses/gpl-2.0.php GNU GPLv2
  * @link     https://finc.info
